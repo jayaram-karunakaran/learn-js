@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jayaram-karunakaran/demo-js.git"
+    "url": "git+https://github.com/jayaram-karunakaran/learn-js.git"
   },
   "keywords": [
     "demo-js"
@@ -16,9 +16,9 @@
   "author": "Jayaram Karunakaran",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/jayaram-karunakaran/demo-js/issues"
+    "url": "https://github.com/jayaram-karunakaran/learn-js/issues"
   },
-  "homepage": "https://github.com/jayaram-karunakaran/demo-js#readme",
+  "homepage": "https://github.com/jayaram-karunakaran/learn-js#readme",
   "dependencies": {
     "express": "^4.18.2",
     "node-cron": "^3.0.2"
