@@ -1,4 +1,4 @@
-let str = "madam";
+let palindromString = "madam";
 
 //Using Loop
 function palindrome(str) {
@@ -13,10 +13,10 @@ function palindrome(str) {
     return true;
 }
 
-console.log(palindrome(str));
+console.log(palindrome(palindromString));
 
 // Using Split Reverse method
-console.log( str == (str).split('').reverse().join('') );
+console.log( palindromString == (palindromString).split('').reverse().join('') );
 
 // Using Array Reverse method
-console.log( Array.from(str).join('') == Array.from(str).reverse().join('') );
+console.log( Array.from(palindromString).join('') == Array.from(palindromString).reverse().join('') );
