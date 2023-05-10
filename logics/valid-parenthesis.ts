@@ -22,3 +22,15 @@ function check(str) {
 
 
 check('{[]}');
+
+// Outputs:
+// {()[()]}
+// ()[()]
+// [()]
+// ()
+// Valid String
+
+
+// {[(}
+// [(
+// Invalid String
